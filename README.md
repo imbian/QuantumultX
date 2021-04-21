@@ -5,3 +5,4 @@ quantumultX 个人使用配置
 https://github.com/Orz-3/QuantumultX<br>
 https://github.com/DivineEngine/Profiles/tree/master<br>
 https://github.com/KOP-XIAO/QuantumultX<br>
+https://anti-ad.net/
